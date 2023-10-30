@@ -45,29 +45,29 @@
 
 ### Penggunaan operator switch untuk seleksi kondisi
 
-<img width="960" alt="Gambar 9" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/f0ce20d8-50e6-4add-b6e6-5c84fd5ff433">
+<img width="960" alt="gambar 9" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/c7902288-e47d-483d-94b8-7d541c3863cd">
 
-<img width="960" alt="Gambar Hasil 9" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/178105e1-0a2f-4ea9-a1ca-349df9e046c2">
+<img width="960" alt="gambar hasil 9" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/8b1f88f3-78d2-4b46-a271-8bf1a955d91a">
 
 # Pembuatan Form
 ### Form Input.
-<img width="960" alt="Gambar 10" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/2b067ff4-f94b-4dd2-9965-4275c1186643">
+<img width="960" alt="gambar 10" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/09ae6f33-ad9b-42f8-b669-4994f2c522fd">
 
-<img width="960" alt="Gambar Hasil 10" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/33e586a5-c539-4a4d-9ebd-5b8ef143ea05">
+<img width="960" alt="gambar hasil 10" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/827007f9-8b55-4931-aa7c-2221740c3e07">
 
 ### Form Button.
-<img width="960" alt="Gambar 11" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/8e37199e-394a-4d95-9322-248a43657bc8">
+<img width="960" alt="gambar 11" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/e4d2fee9-3cd0-48c0-a631-0233993ad452">
 
-<img width="960" alt="Gambar Hasil 11" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/68794e98-ff61-4dcc-8756-c255ae63e0b9">
+<img width="960" alt="gambar hasil 11" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/bbd24d9c-65a3-4655-8d57-54b86a849ecf">
 
 # HTML DOM
 ### Pilihan menggunakan checkBox dengan perhitungan otomatis
-<img width="960" alt="Gambar 12" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/e91fd5da-f049-4e51-9fbc-0675075060e8">
+<img width="960" alt="gambar 12" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/d7d519d4-63de-48c7-a37d-dc3f15dbfdb8">
 
-<img width="960" alt="Gambar Hasil 12" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/088b4b75-81e6-40e8-8351-1f245e08f9da">
+<img width="960" alt="gambar hasil 12" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/101b67ad-db03-4a60-8e2c-18a5cc9d3e7e">
 
 # Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
-![code](https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/e1c6a69a-2041-4c58-a5cd-812e1b26373f)
+![gambar 13](https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/d7ad379d-9d5d-440a-b82f-e1e573d21fcf)
 
-<img width="960" alt="gambar Hasil Code snap" src="https://github.com/Akramfarrasanto/Lab5Web/assets/115552876/351400fb-f6d9-42cc-a2fe-cfcc4b6aa704">
+<img width="960" alt="gambar hasil 13" src="https://github.com/faizdzakiramadhani/Lab5web/assets/115913915/83208092-5889-45e8-bc99-ee2d08072b5e">
